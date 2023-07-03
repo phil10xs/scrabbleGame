@@ -13,6 +13,7 @@
 		180005D42A5168790075260B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 180005D22A5168790075260B /* Main.storyboard */; };
 		180005D62A51687C0075260B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 180005D52A51687C0075260B /* Assets.xcassets */; };
 		180005D92A51687C0075260B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 180005D72A51687C0075260B /* LaunchScreen.storyboard */; };
+		180005E12A516C760075260B /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = 180005E02A516C760075260B /* start.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		180005D52A51687C0075260B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		180005D82A51687C0075260B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		180005DA2A51687C0075260B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		180005E02A516C760075260B /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		180005CB2A5168790075260B /* Project5 */ = {
 			isa = PBXGroup;
 			children = (
+				180005E02A516C760075260B /* start.txt */,
 				180005CC2A5168790075260B /* AppDelegate.swift */,
 				180005CE2A5168790075260B /* SceneDelegate.swift */,
 				180005D02A5168790075260B /* ViewController.swift */,
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				180005D92A51687C0075260B /* LaunchScreen.storyboard in Resources */,
+				180005E12A516C760075260B /* start.txt in Resources */,
 				180005D62A51687C0075260B /* Assets.xcassets in Resources */,
 				180005D42A5168790075260B /* Main.storyboard in Resources */,
 			);
